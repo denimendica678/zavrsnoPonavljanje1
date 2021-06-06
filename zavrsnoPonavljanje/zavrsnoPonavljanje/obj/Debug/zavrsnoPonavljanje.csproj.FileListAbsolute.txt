@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\bin\Debug\zavrsnoPonavljanje.exe.config
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\bin\Debug\zavrsnoPonavljanje.exe
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\bin\Debug\zavrsnoPonavljanje.pdb
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\obj\Debug\zavrsnoPonavljanje.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\obj\Debug\zavrsnoPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\obj\Debug\zavrsnoPonavljanje.exe
+C:\Users\denim\source\repos\zavrsnoPonavljanje\zavrsnoPonavljanje\obj\Debug\zavrsnoPonavljanje.pdb
